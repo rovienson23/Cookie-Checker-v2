@@ -7,7 +7,7 @@ app = Flask('')
 
 @app.route('/')
 def home():
-	return 'LucidHacker#9999 on top '
+	return '||Master||#1564 on top '
 
 def run():
   app.run(
